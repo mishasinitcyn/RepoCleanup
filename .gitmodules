@@ -1,0 +1,6 @@
+[submodule "RepoCleanup-backend"]
+	path = RepoCleanup-backend
+	url = https://github.com/mishasinitcyn/RepoCleanup-backend.git
+[submodule "RepoCleanup-Angular"]
+	path = RepoCleanup-Angular
+	url = https://github.com/mishasinitcyn/RepoCleanup-Angular.git
