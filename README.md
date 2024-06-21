@@ -1,5 +1,8 @@
 # Welcome to RepoCleanup!
 ![image](https://github.com/mishasinitcyn/RepoCleanup-frontend/assets/45673816/e3118859-c6fe-4d37-80f8-78a9d665f404)
+![image](https://github.com/mishasinitcyn/RepoCleanup/assets/45673816/bfe4df9b-b799-4961-a6d1-045ac23d8bfc)
+![image](https://github.com/mishasinitcyn/RepoCleanup/assets/45673816/df29edcf-a4c2-49c2-bd30-8dda7042dc5a)
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
